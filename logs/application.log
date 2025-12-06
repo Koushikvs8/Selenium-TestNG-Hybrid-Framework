@@ -1,0 +1,766 @@
+2025-12-05 16:36:19 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 16:36:19 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 16:36:28 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 16:36:28 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 16:36:28 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 16:36:29 [main] INFO  LogUtility - entering the password
+2025-12-05 16:36:30 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 16:36:31 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 16:36:32 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 16:36:33 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 16:40:01 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 16:40:01 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 16:40:08 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 16:40:08 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 16:40:08 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 16:40:09 [main] INFO  LogUtility - entering the password
+2025-12-05 16:40:10 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 16:40:11 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 16:40:11 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 16:40:12 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:06:42 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:06:42 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:06:42 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:06:42 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:06:42 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:06:42 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:06:42 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:06:42 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:07:01 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:07:01 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:07:01 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:07:02 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:07:02 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:07:02 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:07:03 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:07:03 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:07:04 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:07:04 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:07:04 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:07:04 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:07:05 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:07:05 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:07:05 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:07:06 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:07:06 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:07:06 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:07:06 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:07:07 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:07:08 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:07:08 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:07:08 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:07:09 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:07:11 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:07:11 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:07:17 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:07:17 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:07:17 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:07:18 [main] INFO  LogUtility - entering the password
+2025-12-05 18:07:20 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:07:21 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:07:21 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:07:22 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/reports/screenshots/testValidLogin1764938242394.png
+2025-12-05 18:07:22 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:12:10 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:12:10 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:12:10 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:12:10 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:12:10 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:12:10 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:12:10 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:12:10 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:12:16 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:12:16 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:12:16 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:12:16 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:12:16 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:12:16 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:12:16 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:12:16 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:12:18 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:12:18 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:12:18 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:12:18 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:12:19 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:12:19 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:12:19 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:12:19 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:12:20 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:12:20 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:12:20 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:12:20 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:12:22 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:12:22 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:12:22 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:12:22 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/reports/screenshots/testAllInvalidLogins1764938542202.png
+2025-12-05 18:12:22 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:12:22 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:12:22 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:12:26 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:12:26 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:12:26 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:12:27 [main] INFO  LogUtility - entering the password
+2025-12-05 18:12:29 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:12:30 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:12:30 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:12:31 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:23:17 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:23:17 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:23:17 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:23:17 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:23:17 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:23:17 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:23:17 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:23:17 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:23:25 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:23:25 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:23:25 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:23:25 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:23:25 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:23:25 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:23:25 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:23:25 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:23:26 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:23:26 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:23:26 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:23:26 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:23:28 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:23:28 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:23:28 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:23:28 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:23:29 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:23:29 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:23:29 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:23:29 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:23:30 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:23:31 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:23:31 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:23:31 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:23:32 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:23:32 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:23:39 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:23:39 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:23:39 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:23:40 [main] INFO  LogUtility - entering the password
+2025-12-05 18:23:41 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:23:42 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:23:42 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:23:43 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:24:47 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:24:47 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:24:47 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:24:47 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:24:47 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:24:47 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:24:47 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:24:47 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:24:52 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:24:52 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:24:54 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:24:54 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:24:54 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:24:54 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:24:54 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:24:54 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:24:55 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:24:56 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:24:56 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:24:56 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:24:56 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:24:57 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:24:57 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:24:58 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:24:58 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:24:59 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:24:59 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:24:59 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:24:59 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:25:00 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:25:00 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:25:00 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/reports/screenshots/testAllInvalidLogins1764939300553.png
+2025-12-05 18:25:00 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:25:02 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:25:02 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:25:07 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:25:07 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:25:07 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:25:08 [main] INFO  LogUtility - entering the password
+2025-12-05 18:25:10 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:25:11 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:25:11 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:25:12 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:33:31 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:33:31 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:33:31 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:33:31 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:33:31 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:33:31 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:33:31 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:33:31 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:33:37 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:33:37 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:33:38 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:33:38 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:33:38 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:33:38 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:33:38 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:33:38 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:33:40 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:33:40 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:33:40 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:33:40 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:33:42 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:33:42 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:33:42 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:33:42 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:33:43 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:33:43 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:33:43 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:33:43 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:33:44 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764939824484.png
+2025-12-05 18:33:44 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:33:44 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:33:45 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:33:45 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:33:45 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:33:45 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:33:49 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:33:49 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:33:49 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:33:51 [main] INFO  LogUtility - entering the password
+2025-12-05 18:33:52 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:33:53 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:33:53 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:33:54 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:37:36 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:37:36 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:37:36 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:37:36 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:37:36 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:37:36 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:37:36 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:37:36 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:37:43 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:37:43 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:37:43 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:37:43 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:37:43 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:37:43 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:37:44 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:37:44 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:37:45 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:37:45 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:37:45 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:37:45 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:37:47 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:37:47 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:37:47 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:37:47 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:37:48 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:37:48 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:37:48 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:37:48 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:37:50 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:37:50 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:37:50 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:37:50 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:37:51 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:37:51 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:37:55 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:37:55 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:37:55 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:37:56 [main] INFO  LogUtility - entering the password
+2025-12-05 18:37:58 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:37:59 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:37:59 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:38:00 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:42:36 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:42:36 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:42:36 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:42:36 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:42:36 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:42:36 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:42:36 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:42:36 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:42:42 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:42:42 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:42:43 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:42:43 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:42:43 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:42:43 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:42:43 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:42:43 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:42:44 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:42:44 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:42:44 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:42:45 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:42:46 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:42:46 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:42:46 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:42:46 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:42:47 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:42:47 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:42:47 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:42:47 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:42:48 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:42:49 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:42:49 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:42:49 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins.png
+2025-12-05 18:42:49 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:42:51 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:42:51 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:42:56 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:42:56 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:42:56 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:42:57 [main] INFO  LogUtility - entering the password
+2025-12-05 18:42:58 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:42:59 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:42:59 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:43:00 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:49:33 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:49:33 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:49:33 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:49:33 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:49:33 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:49:33 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:49:33 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:49:33 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:49:40 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:49:40 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:49:41 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:49:41 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:49:41 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:49:41 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:49:42 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:49:42 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:49:42 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:49:44 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:49:44 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:49:44 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:49:44 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:49:45 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:49:45 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:49:45 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:49:45 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:49:46 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:49:46 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:49:46 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:49:46 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:49:47 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:49:47 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:49:49 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/reports/screenshots/testAllInvalidLogins.png
+2025-12-05 18:49:49 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:49:50 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:49:50 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:49:55 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:49:55 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:49:55 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:49:56 [main] INFO  LogUtility - entering the password
+2025-12-05 18:49:58 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:49:59 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:49:59 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:50:00 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:52:50 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:52:50 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:52:50 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:52:50 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:52:50 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:52:50 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:52:50 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:52:50 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:52:56 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:52:56 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:52:57 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:52:57 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:52:57 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:52:57 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:52:57 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:52:57 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:52:58 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:52:59 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:52:59 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:52:59 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:53:00 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:53:00 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:53:00 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:53:00 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:53:01 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:53:01 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:53:01 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:53:01 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:53:02 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:53:03 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:53:03 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:53:03 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:53:03 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:53:03 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:53:08 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:53:08 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:53:08 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:53:10 [main] INFO  LogUtility - entering the password
+2025-12-05 18:53:11 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:53:12 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:53:12 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:53:13 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:56:38 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:56:38 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:56:38 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:56:38 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:56:38 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:56:38 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:56:38 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:56:38 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:56:43 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 18:56:43 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 18:56:44 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 18:56:44 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 18:56:44 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 18:56:45 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 18:56:45 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 18:56:45 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 18:56:45 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 18:56:46 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:56:46 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 18:56:47 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 18:56:47 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 18:56:48 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:56:48 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:56:48 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:56:48 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:56:49 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:56:49 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:56:50 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:56:50 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:56:51 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:56:51 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:56:51 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764941211159.png
+2025-12-05 18:56:51 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 18:56:53 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 18:56:53 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 18:56:57 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 18:56:57 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 18:56:57 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 18:56:58 [main] INFO  LogUtility - entering the password
+2025-12-05 18:56:59 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 18:57:00 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 18:57:00 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 18:57:01 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:00:40 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:00:40 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:00:40 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:00:40 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:00:45 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:00:45 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:00:45 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:00:45 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:00:46 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:00:47 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:00:48 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:00:48 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:00:49 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:00:49 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:00:50 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:00:50 [TestNG-PoolService-1] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764941450485.png
+2025-12-05 19:00:50 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:00:51 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:00:51 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:00:54 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:00:54 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:00:54 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:00:55 [main] INFO  LogUtility - entering the password
+2025-12-05 19:00:57 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:00:58 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:00:58 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:00:59 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:33:12 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:33:12 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:33:12 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:33:12 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:33:29 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:33:30 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:33:30 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:33:30 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:33:33 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:33:33 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:33:34 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:33:36 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:33:38 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:33:39 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:33:40 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:33:41 [TestNG-PoolService-1] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/reports/screenshots/testAllInvalidLogins1764943421487.png
+2025-12-05 19:33:41 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:33:41 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:33:41 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:33:45 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:33:45 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:33:45 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:33:47 [main] INFO  LogUtility - entering the password
+2025-12-05 19:33:48 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:33:49 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:33:49 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:33:50 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:36:27 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:36:27 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:36:27 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:36:27 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:36:32 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:36:32 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:36:32 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:36:32 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:36:33 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:36:33 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:36:34 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:36:35 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:36:36 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:36:36 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:36:37 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:36:37 [TestNG-PoolService-1] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764943597333.png
+2025-12-05 19:36:37 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:36:37 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:36:37 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:36:41 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:36:41 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:36:41 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:36:43 [main] INFO  LogUtility - entering the password
+2025-12-05 19:36:44 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:36:45 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:36:45 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:36:46 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:39:40 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:39:40 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:39:40 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:39:40 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:39:40 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:39:40 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:39:40 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:39:40 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:39:47 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 19:39:47 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 19:39:47 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:39:47 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 19:39:47 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:39:47 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:39:47 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:39:47 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 19:39:49 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:39:49 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 19:39:49 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:39:49 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 19:39:50 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:39:50 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:39:50 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:39:50 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:39:51 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:39:51 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:39:51 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:39:51 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:39:53 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:39:53 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:39:53 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:39:53 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764943793364.png
+2025-12-05 19:39:53 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:39:54 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:39:54 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:39:59 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:39:59 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:39:59 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:40:01 [main] INFO  LogUtility - entering the password
+2025-12-05 19:40:02 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:40:03 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:40:03 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:40:04 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:42:19 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:42:19 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:42:19 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:42:19 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:42:19 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:42:19 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:42:19 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:42:19 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:42:25 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 19:42:25 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 19:42:26 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:42:26 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 19:42:26 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 19:42:26 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:42:26 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:42:26 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:42:27 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 19:42:27 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 19:42:27 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:42:27 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:42:29 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:42:29 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:42:29 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:42:30 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:42:30 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:42:31 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:42:31 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:42:31 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:42:32 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:42:32 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:42:32 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764943952178.png
+2025-12-05 19:42:32 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:42:32 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:42:34 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:42:34 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:42:38 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:42:38 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:42:38 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:42:39 [main] INFO  LogUtility - entering the password
+2025-12-05 19:42:40 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:42:41 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:42:41 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:42:42 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:43:28 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:43:28 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:43:28 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:43:28 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:43:28 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:43:28 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:43:28 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:43:28 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:43:35 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 19:43:35 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 19:43:37 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:43:37 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:43:37 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 19:43:37 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:43:37 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:43:37 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 19:43:38 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 19:43:38 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:43:38 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:43:38 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 19:43:39 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:43:40 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:43:40 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:43:40 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:43:40 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:43:41 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:43:41 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:43:41 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:43:41 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:43:42 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:43:42 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:43:43 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764944022881.png
+2025-12-05 19:43:43 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:43:43 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:43:43 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:43:47 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:43:47 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:43:47 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:43:48 [main] INFO  LogUtility - entering the password
+2025-12-05 19:43:49 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:43:50 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:43:50 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:43:51 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:44:24 [TestNG-PoolService-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:44:24 [TestNG-PoolService-3] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:44:24 [TestNG-PoolService-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:44:24 [TestNG-PoolService-0] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:44:24 [TestNG-PoolService-0] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:44:24 [TestNG-PoolService-3] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:44:24 [TestNG-PoolService-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:44:24 [TestNG-PoolService-2] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:44:28 [TestNG-PoolService-3] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 19:44:28 [TestNG-PoolService-3] INFO  LogUtility - entering the userNmae
+2025-12-05 19:44:30 [TestNG-PoolService-3] INFO  LogUtility - entering the password
+2025-12-05 19:44:30 [TestNG-PoolService-2] INFO  LogUtility - Starting the login test with user :swathi | admin123 | 
+2025-12-05 19:44:30 [TestNG-PoolService-2] INFO  LogUtility - entering the userNmae
+2025-12-05 19:44:30 [TestNG-PoolService-0] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 19:44:30 [TestNG-PoolService-0] INFO  LogUtility - entering the userNmae
+2025-12-05 19:44:31 [TestNG-PoolService-1] INFO  LogUtility - Starting the login test with user :koushik | admim1234 | 
+2025-12-05 19:44:31 [TestNG-PoolService-1] INFO  LogUtility - entering the userNmae
+2025-12-05 19:44:32 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:44:32 [TestNG-PoolService-2] INFO  LogUtility - entering the password
+2025-12-05 19:44:32 [TestNG-PoolService-0] INFO  LogUtility - entering the password
+2025-12-05 19:44:32 [TestNG-PoolService-1] INFO  LogUtility - entering the password
+2025-12-05 19:44:33 [TestNG-PoolService-3] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:44:33 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:44:33 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:44:33 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:44:34 [TestNG-PoolService-0] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:44:34 [TestNG-PoolService-2] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:44:34 [TestNG-PoolService-3] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764944074544.png
+2025-12-05 19:44:34 [TestNG-PoolService-3] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:44:35 [TestNG-PoolService-1] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:44:36 [TestNG-PoolService-0] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:44:36 [TestNG-PoolService-2] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764944076072.png
+2025-12-05 19:44:36 [TestNG-PoolService-2] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:44:36 [TestNG-PoolService-1] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1764944076268.png
+2025-12-05 19:44:36 [TestNG-PoolService-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 19:44:36 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 19:44:36 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 19:44:41 [main] INFO  LogUtility - Starting the login test 
+2025-12-05 19:44:41 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-05 19:44:41 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 19:44:42 [main] INFO  LogUtility - entering the password
+2025-12-05 19:44:44 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 19:44:45 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 19:44:45 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-05 19:44:46 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:13:21 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:13:21 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:13:34 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-05 21:13:34 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:13:35 [main] INFO  LogUtility - entering the password
+2025-12-05 21:13:36 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:13:37 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:13:39 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:13:39 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:13:39 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:13:44 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-05 21:13:44 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:13:45 [main] INFO  LogUtility - entering the password
+2025-12-05 21:13:46 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:13:47 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:13:48 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:13:49 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:13:49 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:13:53 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-05 21:13:53 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:13:54 [main] INFO  LogUtility - entering the password
+2025-12-05 21:13:55 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:13:57 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:13:58 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:13:58 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:13:58 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:14:01 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 21:14:01 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:14:03 [main] INFO  LogUtility - entering the password
+2025-12-05 21:14:04 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:14:05 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:14:06 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:14:06 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:14:06 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:14:10 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 21:14:10 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:14:11 [main] INFO  LogUtility - entering the password
+2025-12-05 21:14:12 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:14:13 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:14:15 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:14:15 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:14:15 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:14:18 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 21:14:18 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:14:19 [main] INFO  LogUtility - entering the password
+2025-12-05 21:14:21 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:14:22 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:14:23 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:14:23 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:14:23 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:14:28 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 21:14:28 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:14:29 [main] INFO  LogUtility - entering the password
+2025-12-05 21:14:31 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:14:32 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:14:33 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-05 21:14:33 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-05 21:14:33 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-05 21:14:36 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-05 21:14:36 [main] INFO  LogUtility - entering the userNmae
+2025-12-05 21:14:38 [main] INFO  LogUtility - entering the password
+2025-12-05 21:14:39 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-05 21:14:40 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-05 21:14:41 [main] INFO  LogUtility - Closing the Webdriver 
