@@ -59,6 +59,7 @@ SecureBankDemo
 ├─ testng.xml                               # TestNG suite configuration
 └─ README.md
 
+
 # ⚙ Browser & Parallel Execution
 
 The framework supports cross-browser testing. The browser can be passed via:
