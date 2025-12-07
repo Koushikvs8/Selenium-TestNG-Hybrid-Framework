@@ -7,6 +7,8 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.ExtentReports;
@@ -22,27 +24,33 @@ public class BaseTest {
   static final int IMPLICIT_TIMEOUT_SECONDS= Integer.parseInt(ConfigReader.getValue("Implicite_Timeout"));
   protected  static ExtentReports extent;
   protected  static ExtentTest test;
-  
-  @BeforeSuite
- public void setupReport() 
- {
-	// extent=ExtentReportManager.getReportInstance();
- }
-  
-  @AfterSuite
- public void tearDownReport()
- {
-	 extent.flush();
- }
-  
-  
+ 
+@Parameters("browser")
 @BeforeMethod
-public static void setUp()
+public static void setUp(@Optional String xmlBrowser)
 {  
+	   // 1. Read Maven parameter
+    String mavenBrowser = System.getProperty("browser");
+
+    // 2. Read config file fallback
+    String configBrowser = ConfigReader.getValue("Browser");
+
+    // 3. Final browser
+    String browser;
+
+    if (xmlBrowser != null && !xmlBrowser.isEmpty()) {
+        browser = xmlBrowser; // TestNG XML value
+    } 
+    else if (mavenBrowser != null && !mavenBrowser.isEmpty()) {
+        browser = mavenBrowser; // Maven CLI value
+    }
+    else {
+        browser = configBrowser; // Properties file fallback
+    }
+	
    LogUtility.info("Starting the Webdriver ");
    String Url= ConfigReader.getValue("Url");
-   String Browser= ConfigReader.getValue("Browser");
-   DriverManager.initDriver(Browser);
+   DriverManager.initDriver(browser);
    DriverManager.getDriver().get(Url);
    driver().manage().window().maximize();
    driver().manage().deleteAllCookies();

@@ -764,3 +764,602 @@
 2025-12-05 21:14:39 [main] INFO  LogUtility - Clicking on the Remember Checkbox
 2025-12-05 21:14:40 [main] INFO  LogUtility - Clicking on the Login button
 2025-12-05 21:14:41 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 13:37:24 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 13:37:24 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 13:38:03 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 13:38:03 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 13:38:11 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 13:38:11 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 13:38:11 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 13:38:12 [main] INFO  LogUtility - entering the password
+2025-12-06 13:38:13 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 13:38:14 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 13:38:14 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 13:38:15 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 13:48:57 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 13:48:57 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 13:49:02 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 13:49:02 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 13:49:02 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 13:49:03 [main] INFO  LogUtility - entering the password
+2025-12-06 13:49:04 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 13:49:05 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 13:49:05 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 13:49:06 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:00:16 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:00:16 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:00:21 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:00:21 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:00:21 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:00:22 [main] INFO  LogUtility - entering the password
+2025-12-06 14:00:23 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:00:24 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:00:25 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:00:26 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:03:11 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:03:11 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:03:16 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:03:16 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:03:16 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:03:17 [main] INFO  LogUtility - entering the password
+2025-12-06 14:03:18 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:03:19 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:03:19 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:03:20 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:03:22 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:03:22 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:03:25 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:03:25 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:03:27 [main] INFO  LogUtility - entering the password
+2025-12-06 14:03:28 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:03:29 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:03:30 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:03:31 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:03:31 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:03:34 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:03:34 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:03:36 [main] INFO  LogUtility - entering the password
+2025-12-06 14:03:37 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:03:38 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:03:40 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010019844.png
+2025-12-06 14:03:40 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:03:40 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:03:40 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:03:43 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:03:43 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:03:45 [main] INFO  LogUtility - entering the password
+2025-12-06 14:03:46 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:03:47 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:03:48 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010028730.png
+2025-12-06 14:03:48 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:03:49 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:03:49 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:03:59 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:03:59 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:04:00 [main] INFO  LogUtility - entering the password
+2025-12-06 14:04:01 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:04:03 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:04:04 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010044303.png
+2025-12-06 14:04:04 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:04:05 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:04:05 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:04:08 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:04:08 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:04:10 [main] INFO  LogUtility - entering the password
+2025-12-06 14:04:11 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:04:12 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:04:13 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:04:13 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:04:13 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:04:17 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:04:17 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:04:18 [main] INFO  LogUtility - entering the password
+2025-12-06 14:04:19 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:04:20 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:04:21 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:04:22 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:04:22 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:04:26 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:04:26 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:04:27 [main] INFO  LogUtility - entering the password
+2025-12-06 14:04:29 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:04:30 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:04:31 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:04:31 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:04:31 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:04:34 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:04:34 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:04:36 [main] INFO  LogUtility - entering the password
+2025-12-06 14:04:37 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:04:38 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:04:39 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:09:08 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:09:08 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:09:13 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:09:13 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:09:13 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:09:14 [main] INFO  LogUtility - entering the password
+2025-12-06 14:09:15 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:09:16 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:09:16 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:09:17 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:09:19 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:09:19 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:09:23 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:09:23 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:09:24 [main] INFO  LogUtility - entering the password
+2025-12-06 14:09:26 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:09:27 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:09:28 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:09:28 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:09:28 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:09:32 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:09:32 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:09:33 [main] INFO  LogUtility - entering the password
+2025-12-06 14:09:34 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:09:36 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:09:37 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010377371.png
+2025-12-06 14:09:37 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:09:37 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:09:37 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:09:42 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:09:42 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:09:44 [main] INFO  LogUtility - entering the password
+2025-12-06 14:09:45 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:09:46 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:09:47 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010387565.png
+2025-12-06 14:09:47 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:09:48 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:09:48 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:09:51 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:09:51 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:09:53 [main] INFO  LogUtility - entering the password
+2025-12-06 14:09:54 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:09:55 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:09:56 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010396591.png
+2025-12-06 14:09:56 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:09:57 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:09:57 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:10:00 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:10:00 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:10:02 [main] INFO  LogUtility - entering the password
+2025-12-06 14:10:03 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:10:04 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:10:05 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:10:05 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:10:05 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:10:09 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:10:09 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:10:10 [main] INFO  LogUtility - entering the password
+2025-12-06 14:10:11 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:10:13 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:10:14 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:10:14 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:10:14 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:10:19 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:10:19 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:10:20 [main] INFO  LogUtility - entering the password
+2025-12-06 14:10:22 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:10:23 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:10:24 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:10:24 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:10:24 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:10:29 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:10:29 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:10:30 [main] INFO  LogUtility - entering the password
+2025-12-06 14:10:31 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:10:32 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:10:33 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:10:54 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:10:54 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:11:04 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:11:04 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:11:04 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:11:06 [main] INFO  LogUtility - entering the password
+2025-12-06 14:11:07 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:11:08 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:11:08 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:11:09 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:11:13 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:11:13 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:11:22 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:11:22 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:11:23 [main] INFO  LogUtility - entering the password
+2025-12-06 14:11:25 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:11:26 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:11:27 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:11:28 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:11:28 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:11:35 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:11:35 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:11:37 [main] INFO  LogUtility - entering the password
+2025-12-06 14:11:38 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:11:39 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:11:40 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010500676.png
+2025-12-06 14:11:40 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:11:42 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:11:42 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:11:49 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:11:49 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:11:51 [main] INFO  LogUtility - entering the password
+2025-12-06 14:11:52 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:11:53 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:11:55 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010515022.png
+2025-12-06 14:11:55 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:11:57 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:11:57 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:12:04 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:12:04 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:12:05 [main] INFO  LogUtility - entering the password
+2025-12-06 14:12:06 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:12:08 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:12:09 [main] INFO  LogUtility - the screenshot is captured and saved in path :C:\KoushikEclipsWorkspace\SecureBankDemoSelenium/screenshots/testAllInvalidLogins1765010529320.png
+2025-12-06 14:12:09 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:12:11 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:12:11 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:12:18 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:12:18 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:12:19 [main] INFO  LogUtility - entering the password
+2025-12-06 14:12:21 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:12:22 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:12:23 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:12:25 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:12:25 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:12:32 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:12:32 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:12:33 [main] INFO  LogUtility - entering the password
+2025-12-06 14:12:34 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:12:36 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:12:37 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:12:39 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:12:39 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:12:46 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:12:46 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:12:47 [main] INFO  LogUtility - entering the password
+2025-12-06 14:12:49 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:12:50 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:12:51 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:12:53 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:12:53 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:13:00 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:13:00 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:13:01 [main] INFO  LogUtility - entering the password
+2025-12-06 14:13:02 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:13:03 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:13:05 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:17:37 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:17:37 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:17:43 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:17:43 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:17:44 [main] INFO  LogUtility - entering the password
+2025-12-06 14:17:45 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:17:46 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:17:48 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:17:48 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:17:48 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:17:51 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:17:51 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:17:53 [main] INFO  LogUtility - entering the password
+2025-12-06 14:17:54 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:17:55 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:17:56 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:17:57 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:17:57 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:18:00 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:18:00 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:18:01 [main] INFO  LogUtility - entering the password
+2025-12-06 14:18:03 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:18:04 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:18:05 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:18:05 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:18:05 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:18:08 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:18:08 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:18:10 [main] INFO  LogUtility - entering the password
+2025-12-06 14:18:11 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:18:12 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:18:13 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:18:13 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:18:13 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:18:17 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:18:17 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:18:18 [main] INFO  LogUtility - entering the password
+2025-12-06 14:18:20 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:18:21 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:18:22 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:18:22 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:18:22 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:18:26 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:18:26 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:18:27 [main] INFO  LogUtility - entering the password
+2025-12-06 14:18:28 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:18:29 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:18:30 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:18:31 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:18:31 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:18:34 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:18:34 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:18:36 [main] INFO  LogUtility - entering the password
+2025-12-06 14:18:37 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:18:38 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:18:39 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:18:39 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:18:39 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:18:44 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:18:44 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:18:46 [main] INFO  LogUtility - entering the password
+2025-12-06 14:18:47 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:18:48 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:18:49 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:20:39 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:20:39 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:20:43 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:20:43 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:20:45 [main] INFO  LogUtility - entering the password
+2025-12-06 14:20:46 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:20:47 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:20:48 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:20:49 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:20:49 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:20:52 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:20:52 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:20:54 [main] INFO  LogUtility - entering the password
+2025-12-06 14:20:55 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:20:56 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:20:57 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:20:57 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:20:57 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:21:01 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:21:01 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:21:03 [main] INFO  LogUtility - entering the password
+2025-12-06 14:21:04 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:21:05 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:21:06 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:21:06 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:21:06 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:21:10 [main] INFO  LogUtility - Starting the login test with user :"" | "" | 
+2025-12-06 14:21:10 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:21:11 [main] INFO  LogUtility - entering the password
+2025-12-06 14:21:13 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:21:14 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:21:25 [main] ERROR LogUtility - Element is not visible: 
+2025-12-06 14:21:25 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:21:25 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:21:25 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:21:29 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:21:29 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:21:30 [main] INFO  LogUtility - entering the password
+2025-12-06 14:21:32 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:21:33 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:21:34 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:21:34 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:21:34 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:21:38 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:21:38 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:21:39 [main] INFO  LogUtility - entering the password
+2025-12-06 14:21:40 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:21:41 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:21:42 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:21:43 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:21:43 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:21:46 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:21:46 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:21:47 [main] INFO  LogUtility - entering the password
+2025-12-06 14:21:49 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:21:50 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:21:51 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:21:52 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:21:52 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:21:55 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:21:55 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:21:56 [main] INFO  LogUtility - entering the password
+2025-12-06 14:21:58 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:21:59 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:22:00 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:22:43 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:22:43 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:22:48 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:22:48 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:22:49 [main] INFO  LogUtility - entering the password
+2025-12-06 14:22:50 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:22:52 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:22:53 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:22:53 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:22:53 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:22:57 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:22:57 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:22:58 [main] INFO  LogUtility - entering the password
+2025-12-06 14:22:59 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:01 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:02 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:23:02 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:23:02 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:23:05 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:23:05 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:23:07 [main] INFO  LogUtility - entering the password
+2025-12-06 14:23:08 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:09 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:10 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:23:11 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:23:11 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:23:14 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:23:14 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:23:16 [main] INFO  LogUtility - entering the password
+2025-12-06 14:23:17 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:18 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:19 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:23:19 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:23:19 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:23:23 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:23:23 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:23:24 [main] INFO  LogUtility - entering the password
+2025-12-06 14:23:25 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:26 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:28 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:23:28 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:23:28 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:23:32 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:23:32 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:23:33 [main] INFO  LogUtility - entering the password
+2025-12-06 14:23:34 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:35 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:36 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:23:37 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:23:37 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:23:40 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:23:40 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:23:42 [main] INFO  LogUtility - entering the password
+2025-12-06 14:23:43 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:44 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:45 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:23:46 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:23:46 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:23:50 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:23:50 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:23:51 [main] INFO  LogUtility - entering the password
+2025-12-06 14:23:52 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:23:53 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:23:55 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:26:58 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:26:58 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:27:02 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:27:02 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:27:04 [main] INFO  LogUtility - entering the password
+2025-12-06 14:27:05 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:27:06 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:27:07 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:27:07 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:27:07 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:30:46 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:30:46 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:30:50 [main] INFO  LogUtility - Starting the login test with user :admin | admin123 | 
+2025-12-06 14:30:50 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:30:51 [main] INFO  LogUtility - entering the password
+2025-12-06 14:30:53 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:30:54 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:30:55 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:30:55 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:30:55 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:30:59 [main] INFO  LogUtility - Starting the login test with user :koushik | admin123 | 
+2025-12-06 14:30:59 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:31:00 [main] INFO  LogUtility - entering the password
+2025-12-06 14:31:01 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:31:02 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:31:04 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:31:04 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:31:04 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:31:08 [main] INFO  LogUtility - Starting the login test with user :admin | admin123334 | 
+2025-12-06 14:31:08 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:31:09 [main] INFO  LogUtility - entering the password
+2025-12-06 14:31:10 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:31:12 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:31:13 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:31:13 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:31:13 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:31:17 [main] INFO  LogUtility - Starting the login test with user : |  | 
+2025-12-06 14:31:17 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:31:18 [main] INFO  LogUtility - entering the password
+2025-12-06 14:38:40 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:38:40 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:39:01 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:39:01 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:44:48 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:44:48 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:44:54 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:44:54 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:44:54 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:44:55 [main] INFO  LogUtility - entering the password
+2025-12-06 14:44:57 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:44:58 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:44:58 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:44:59 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:46:22 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:46:22 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:46:27 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:46:27 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:46:27 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:46:28 [main] INFO  LogUtility - entering the password
+2025-12-06 14:46:29 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:46:30 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:46:31 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:46:32 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:50:15 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:50:15 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:50:25 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:50:25 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:50:25 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:50:26 [main] INFO  LogUtility - entering the password
+2025-12-06 14:50:28 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:50:29 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:50:29 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:50:30 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:50:33 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:50:33 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:50:42 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:50:42 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:50:42 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:50:43 [main] INFO  LogUtility - entering the password
+2025-12-06 14:50:44 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:50:45 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:50:45 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:50:46 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:53:28 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:53:28 [main] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:53:34 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:53:34 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:53:34 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:53:35 [main] INFO  LogUtility - entering the password
+2025-12-06 14:53:36 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:53:37 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:53:38 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:53:39 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:53:40 [main] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:53:40 [main] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:53:46 [main] INFO  LogUtility - Starting the login test 
+2025-12-06 14:53:46 [main] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:53:46 [main] INFO  LogUtility - entering the userNmae
+2025-12-06 14:53:47 [main] INFO  LogUtility - entering the password
+2025-12-06 14:53:49 [main] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:53:50 [main] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:53:50 [main] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:53:51 [main] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:54:19 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:54:19 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:54:24 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Starting the login test 
+2025-12-06 14:54:24 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:54:24 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - entering the userNmae
+2025-12-06 14:54:25 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - entering the password
+2025-12-06 14:54:27 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:54:28 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:54:28 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:54:29 [TestNG-test=Login Tests chrome-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:54:30 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:54:30 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:54:36 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Starting the login test 
+2025-12-06 14:54:36 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:54:36 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - entering the userNmae
+2025-12-06 14:54:38 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - entering the password
+2025-12-06 14:54:39 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:54:40 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:54:40 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:54:41 [TestNG-test=Login Tests firefox-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:56:18 [TestNG-tests-2] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:56:18 [TestNG-tests-1] INFO  LogUtility - Starting the Webdriver 
+2025-12-06 14:56:18 [TestNG-tests-1] INFO  LogUtility - The driver is initialized with Chrome
+2025-12-06 14:56:18 [TestNG-tests-2] INFO  LogUtility - The driver is initialized with firefox
+2025-12-06 14:56:25 [TestNG-tests-1] INFO  LogUtility - Starting the login test 
+2025-12-06 14:56:25 [TestNG-tests-1] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:56:25 [TestNG-tests-1] INFO  LogUtility - entering the userNmae
+2025-12-06 14:56:26 [TestNG-tests-1] INFO  LogUtility - entering the password
+2025-12-06 14:56:28 [TestNG-tests-1] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:56:29 [TestNG-tests-2] INFO  LogUtility - Starting the login test 
+2025-12-06 14:56:29 [TestNG-tests-2] INFO  LogUtility - Adding the credentials and clicing on loginbutton 
+2025-12-06 14:56:29 [TestNG-tests-2] INFO  LogUtility - entering the userNmae
+2025-12-06 14:56:29 [TestNG-tests-1] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:56:29 [TestNG-tests-1] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:56:30 [TestNG-tests-2] INFO  LogUtility - entering the password
+2025-12-06 14:56:31 [TestNG-tests-1] INFO  LogUtility - Closing the Webdriver 
+2025-12-06 14:56:32 [TestNG-tests-2] INFO  LogUtility - Clicking on the Remember Checkbox
+2025-12-06 14:56:33 [TestNG-tests-2] INFO  LogUtility - Clicking on the Login button
+2025-12-06 14:56:33 [TestNG-tests-2] INFO  LogUtility - Navigating to Homepage 
+2025-12-06 14:56:34 [TestNG-tests-2] INFO  LogUtility - Closing the Webdriver 

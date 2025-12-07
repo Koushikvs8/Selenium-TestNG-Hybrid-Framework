@@ -25,6 +25,7 @@ public static Object[][] getSheetData(String filePath, String sheetName) {
         }
 
         int rows = sheet.getPhysicalNumberOfRows();
+      
         if (rows == 0) {
             throw new RuntimeException("The sheet is empty!");
         }
@@ -69,4 +70,6 @@ private static Object getCellValue(Cell cell) {
             return "";
     }
 }
+
+
 }

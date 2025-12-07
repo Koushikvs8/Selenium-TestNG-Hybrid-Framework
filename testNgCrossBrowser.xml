@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+    <suite name="Suite" parallel="tests" thread-count="2">
+  <listeners>
+    <listener class-name="com.securebankdemo.Utilities.TestListeners"/>
+  </listeners>
+
+  <test name="Login Tests chrome">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.securebankdemo.Tests.LoginTestes"/>
+    </classes>
+  </test>
+
+  <test name="Login Tests firefox">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.securebankdemo.Tests.LoginTestes"/>
+    </classes>
+  </test>
+</suite>

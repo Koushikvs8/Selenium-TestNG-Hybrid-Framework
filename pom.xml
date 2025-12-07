@@ -20,11 +20,11 @@
 </dependency>
 
 <dependency>
-<groupId>org.testng</groupId>
-<artifactId>testng</artifactId>
-<version>${testng.version}</version>
-<scope>test</scope>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.10.2</version>
 </dependency>
+
   
 
 <dependency>
@@ -80,9 +80,16 @@
 <artifactId>maven-surefire-plugin</artifactId>
 <version>3.0.0-M9</version>
 <configuration>
+
+<systemPropertyVariables>
+<browser>${browser}</browser>
+<groups>${groups}</groups>
+</systemPropertyVariables>
+
 <suiteXmlFiles>
 <suiteXmlFile>testng.xml</suiteXmlFile>
 </suiteXmlFiles>
+
 </configuration>
 </plugin>
 </plugins>

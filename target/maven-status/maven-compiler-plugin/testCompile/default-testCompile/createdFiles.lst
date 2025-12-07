@@ -1,0 +1,4 @@
+com\securebankdemo\Tests\LoginTestes.class
+com\securebankdemo\DataStorage\DataStorage.class
+com\securebankdemo\Tests\LoginTestesDDT.class
+com\securebankdemo\TestBase\BaseTest.class

@@ -4,6 +4,7 @@
   <listeners>
     <listener class-name="com.securebankdemo.Utilities.TestListeners"/>
   </listeners>
+  <parameter name="browser" value="chrome"></parameter>
     <test name="Login Tests">
         <classes>
             <class name="com.securebankdemo.Tests.LoginTestes"/>
