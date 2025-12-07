@@ -93,21 +93,27 @@ DataProviders read Excel/CSV test data and inject into test methods using TestNG
 
 # Utilities:
 
-ActionUtility – hover, drag-drop, right-click, etc.
+ActionUtility – Major user actions like click,sendkeys ,...
 
-WaitUtility – implicit, explicit, fluent waits
+WaitUtility – implicit, explicit
 
 ExtentReportUtility – generate HTML reports with screenshots
 
 LogUtility – console & file logs
 
+ExcelReaderUtilities-
+
+ConfigReader-
+
 # 💻 Running Tests
 
 Using Maven:
-
-mvn test                       # Runs default browser from config
-mvn clean test -Dbrowser=chrome # Runs tests on Chrome
-mvn clean test -Dbrowser=firefox # Runs tests on Firefox
+# #  Runs default browser from config
+mvn test    
+# # Runs tests on Chrome
+mvn clean test -Dbrowser=chrome
+# # Runs tests on Firefox
+mvn clean test -Dbrowser=firefox
 
 
 Using TestNG XML:
