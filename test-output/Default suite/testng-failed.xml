@@ -5,7 +5,7 @@
     <classes>
       <class name="com.securebankdemo.Tests.LoginTestesDDT">
         <methods>
-          <include name="testAllInvalidLogins" invocation-numbers="1 2"/>
+          <include name="testAllInvalidLogins" invocation-numbers="3"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>

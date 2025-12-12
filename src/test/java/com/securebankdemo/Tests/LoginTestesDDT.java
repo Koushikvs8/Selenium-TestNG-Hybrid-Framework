@@ -33,7 +33,7 @@ public class LoginTestesDDT extends BaseTest{
 	    {
 	    	Assert.assertTrue(loginpage.usernameReqMsg());
 	    	Assert.assertTrue(loginpage.passwordReqMsg());
-	    	Assert.assertNotEquals(currentUrl, currentUrl, "user should not be redirect to Homepage for Invalid user ");
+	    	Assert.assertNotEquals(currentUrl, ExpectedUrl, "user should not be redirect to Homepage for Invalid user ");
 
 	    }
 	  
