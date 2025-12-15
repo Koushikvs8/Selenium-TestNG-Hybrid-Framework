@@ -43,7 +43,7 @@ public void clickOnLoginButton()
 	action.click(loginBtn);
 }
 
-public HomePage login(String username ,String password , boolean rememberChkbox)
+public DashboardPage login(String username ,String password , boolean rememberChkbox)
 {   LogUtility.info("entering the userNmae");
 	enterUsername(username);
     Waits.pause(); // giving this static wait to see execution
@@ -55,7 +55,7 @@ public HomePage login(String username ,String password , boolean rememberChkbox)
     Waits.pause();
     LogUtility.info("Clicking on the Login button");
     clickOnLoginButton();
-    return new HomePage(driver);
+    return new DashboardPage(driver);
 }
 public boolean alertMsgDisplay()
 {    

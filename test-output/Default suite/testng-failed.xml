@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.securebankdemo.Tests.LoginTestesDDT">
+      <class name="com.securebankdemo.Tests.DashboardTests">
         <methods>
-          <include name="testAllInvalidLogins" invocation-numbers="3"/>
+          <include name="ValidateAccountCreation"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.securebankdemo.Tests.LoginTestesDDT -->
+      </class> <!-- com.securebankdemo.Tests.DashboardTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

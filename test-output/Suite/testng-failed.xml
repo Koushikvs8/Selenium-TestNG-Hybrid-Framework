@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite thread-count="2" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="firefox"/>
   <listeners>
     <listener class-name="com.securebankdemo.Utilities.TestListeners"/>
   </listeners>
-  <test thread-count="2" name="Login Tests(failed)">
+  <test thread-count="2" parallel="tests" name="Dashboard Tests(failed)">
     <classes>
-      <class name="com.securebankdemo.Tests.LoginTestes">
+      <class name="com.securebankdemo.Tests.DashboardTests">
         <methods>
-          <include name="tearDownReport"/>
+          <include name="ValidateAccountCreation"/>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="testAllInvalidLogins" invocation-numbers="3 2 1"/>
-          <include name="setupReport"/>
         </methods>
-      </class> <!-- com.securebankdemo.Tests.LoginTestes -->
+      </class> <!-- com.securebankdemo.Tests.DashboardTests -->
     </classes>
-  </test> <!-- Login Tests(failed) -->
+  </test> <!-- Dashboard Tests(failed) -->
 </suite> <!-- Failed suite [Suite] -->

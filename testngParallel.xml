@@ -5,9 +5,11 @@
     <listener class-name="com.securebankdemo.Utilities.TestListeners"/>
   </listeners>
   <parameter name="browser" value="chrome"></parameter>
-    <test name="Login Tests">
+    <test name="Login Tests" parallel="false">
         <classes>
             <class name="com.securebankdemo.Tests.LoginTestes"/>
+            <class name="com.securebankdemo.Tests.DashboardTests"/>
         </classes>
     </test>
+    
 </suite> <!-- Suite -->

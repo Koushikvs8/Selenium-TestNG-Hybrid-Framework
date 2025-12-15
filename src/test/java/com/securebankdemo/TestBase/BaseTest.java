@@ -13,7 +13,6 @@ import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.securebankdemo.PageObjects.HomePage;
 import com.securebankdemo.Utilities.ConfigReader;
 import com.securebankdemo.Utilities.ExtentReportManager;
 import com.securebankdemo.Utilities.LogUtility;
@@ -22,8 +21,6 @@ import factory.DriverManager;
 
 public class BaseTest {
   static final int IMPLICIT_TIMEOUT_SECONDS= Integer.parseInt(ConfigReader.getValue("Implicite_Timeout"));
-  protected  static ExtentReports extent;
-  protected  static ExtentTest test;
  
 @Parameters("browser")
 @BeforeMethod
@@ -66,7 +63,7 @@ public  void tearDown()
 }
 
 
-public static WebDriver   driver()
+public static WebDriver  driver()
 {
 	return DriverManager.getDriver();
 }

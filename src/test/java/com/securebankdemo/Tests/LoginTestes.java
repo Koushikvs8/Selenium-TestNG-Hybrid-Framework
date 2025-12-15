@@ -5,7 +5,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.securebankdemo.DataStorage.DataStorage;
-import com.securebankdemo.PageObjects.HomePage;
+import com.securebankdemo.PageObjects.DashboardPage;
 import com.securebankdemo.PageObjects.LoginPage;
 import com.securebankdemo.TestBase.BaseTest;
 import com.securebankdemo.Utilities.ConfigReader;
@@ -18,11 +18,11 @@ public class LoginTestes extends BaseTest {
 
 	
 	@Test()
-	public void testValidLogin()
+	public void ValidateLoginForValidUser()
 	{   LogUtility.info("Starting the login test ");
-	    LogUtility.info("Adding the credentials and clicing on loginbutton ");
+	    LogUtility.info("Adding the credentials and clicking on loginbutton ");
 		LoginPage loginpage=new LoginPage(driver());
-	    HomePage homepage= loginpage.login(ConfigReader.getValue("UserName"), ConfigReader.getValue("Password"), false);
+		DashboardPage homepage= loginpage.login(ConfigReader.getValue("UserName"), ConfigReader.getValue("Password"), false);
 	    LogUtility.info("Navigating to Homepage ");
 	    String currentUrl=homepage.verifyNavigationtoHomepage();
 	    String ExpectedUrl=DataStorage.HOMEPAGE_URL;

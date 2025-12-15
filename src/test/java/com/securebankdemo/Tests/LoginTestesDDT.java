@@ -5,7 +5,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.securebankdemo.DataStorage.DataStorage;
-import com.securebankdemo.PageObjects.HomePage;
+import com.securebankdemo.PageObjects.DashboardPage;
 import com.securebankdemo.PageObjects.LoginPage;
 import com.securebankdemo.TestBase.BaseTest;
 import com.securebankdemo.Utilities.DataProviders;
@@ -14,10 +14,10 @@ import com.securebankdemo.Utilities.LogUtility;
 public class LoginTestesDDT extends BaseTest{
 
 	@Test(dataProvider = "logindata", threadPoolSize=2)
-	public void testAllInvalidLogins(String userName, String Password,String status)
+	public void ValidateLoginForALLDataSets(String userName, String Password,String status)
 	{    LogUtility.info("Starting the login test with user :" +userName +" | "+Password +" | ");
 	    LoginPage loginpage=new LoginPage(driver());
-	    HomePage homepage= loginpage.login(userName, Password, true);
+	    DashboardPage homepage= loginpage.login(userName, Password, true);
 	    String currentUrl=homepage.verifyNavigationtoHomepage();
     	String ExpectedUrl=DataStorage.HOMEPAGE_URL;
 	    if(status.equals("success"))
