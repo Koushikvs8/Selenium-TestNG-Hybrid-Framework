@@ -7,7 +7,9 @@ This is a Selenium Test Automation Framework designed for UI automation of Secur
  using Java, TestNG, and Maven. The framework follows industry-level best practices, supporting cross-browser testing, data-driven testing (DDT), thread-safe driver management, and design patterns like Singleton and Factory.
 
 # High-Level DataFlow and Project Structure Diagram:
-Check out here on the project tree \/
+Check out here on the project tree > > >
+
+
 SecureBankDemoSelenium\DataFlowDiagram
 
 # ✅ Key Features
